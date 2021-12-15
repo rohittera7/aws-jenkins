@@ -1,13 +1,13 @@
-package com.jhooq.Jhooqk8s;
+package com.metabob.metabobk8s;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JhooqDockerDemo {
+public class MetabobDockerDemo {
 
     public static void main(String[] args) {
-        SpringApplication.run(JhooqDockerDemo.class, args);
+        SpringApplication.run(MetabobDockerDemo.class, args);
     }
 
 }

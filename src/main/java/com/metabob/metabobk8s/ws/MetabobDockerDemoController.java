@@ -8,6 +8,6 @@ public class MetabobDockerDemoController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello - Metabob-k8s i Have updated the message";
+        return "Hello - Metabob i Have updated the message";
     }
 }
